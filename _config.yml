@@ -23,12 +23,12 @@ repository               : "bscurtis-50136/bscurtis50136.github.io"
 author:
   # Biographic information
   avatar           : "head_shot_me.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  name             : "Bradley Curtis"
+  #pronouns         : # example: "she/he"  
+  #bio              : "Short biography for the left-hand sidebar"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
+  #uri              : # URL
   email            : "Bradley.Curtis@uga.edu" 
 
   # Academic websites
