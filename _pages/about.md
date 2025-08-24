@@ -14,6 +14,7 @@ My research feilds are Health Econonmics and Industrial Organization
 **Contact Information:** Bradley.Curtis@uga.edu
 
 **Quick Links**
+
 **Job Market Paper:**
 - Title
   
