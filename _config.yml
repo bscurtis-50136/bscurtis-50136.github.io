@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Bradley Curtis "
+title                    : "Brad Curtis "
 title_separator          : "-"
 name                     : &name "Bradley Curtis"
 description              : &description "PhD Candidate in Economics at the University of Georgia"
