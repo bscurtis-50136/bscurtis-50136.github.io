@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "I am a fifth-year Ph.D. candidate in Economics at the University of Georgia."
+title: "Bradley Curtis"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a fifth-year Ph.D. candidate in Economics at the University of Georgia
 
 I will be on the 2025-2026 job market
 
