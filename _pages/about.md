@@ -16,6 +16,7 @@ My research feilds are Health Econonmics and Industrial Organization
 **Quick Links**
 **Job Market Paper:**
 - Title
+  
 **CV:** 
-
+ [PDF](/files/Brad Curtis CV 2025.pdf){: .btn .btn--small} 
 
