@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bradley Curtis"
+title: "Brad Curtis"
 author_profile: true
 redirect_from: 
   - /about/
