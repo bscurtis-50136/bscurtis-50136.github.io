@@ -1,4 +1,4 @@
-# Bradley Curtis
+# Brad Curtis
 PhD student Economics at University of Georgia.
 
 **Website:** https://bscurtis-50136.github.io  
@@ -8,4 +8,4 @@ PhD student Economics at University of Georgia.
 
 • [GitHub](https://github.com/bscurtis-50136)
 
-*Also go by “Brad Curtis.”*
+*Also go by “Bradley Curtis.”*
