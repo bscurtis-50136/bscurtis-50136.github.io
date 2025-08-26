@@ -1,4 +1,5 @@
 ---
+
 title: "Instructor of Record"
 collection: teaching
 type: "Undergraduate Microeconomics"
@@ -9,11 +10,4 @@ venue: "UGA, (Spring, 2025)"
 ---
 
 [**Course Evaluations**](/files/Course_Evaluations_Brad_Curtis.pdf){: .btn .btn--small} 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
