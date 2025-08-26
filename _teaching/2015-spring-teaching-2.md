@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Microeconomics"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "UGA"
-date: Spring 2025
+date: 2025-10-01
 #location: "City, Country"
 ---
 
