@@ -3,8 +3,8 @@ title: "Instructor of Record"
 collection: teaching
 type: "Undergraduate Microeconomics"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "UGA, (Spring, 2025)"
-#date: 2014-01-01
+venue: "UGA"
+date: Spring 2025
 #location: "City, Country"
 ---
 
