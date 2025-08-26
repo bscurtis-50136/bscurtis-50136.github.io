@@ -1,13 +1,21 @@
 ---
 
-title: "Instructor of Record"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate Microeconomics"
+type: ""
 #permalink: /teaching/2014-spring-teaching-1
-venue: "UGA, (Spring, 2025)"
+venue: ""
 #date: 2014-01-01
 #location: "City, Country"
 ---
+**Statistics for Econometrics (Doctoral), University of Georgia, (Fall 2024, Fall 2022)**
 
-[**Course Evaluations**](/files/Course_Evaluations_Brad_Curtis.pdf){: .btn .btn--small} 
+**Game Theory, (Undergraduate) University of Georgia, Fall 2024**
+
+**Causal Inference for Business Analytics (Masters), University of Georgia, Fall 2023**
+
+**Introduction to Econometrics (Undergraduate), University of Georgia, Fall 2022**
+
+**Senior Thesis (Undergraduate), University of Georgia, Spring 2021**
+
 
