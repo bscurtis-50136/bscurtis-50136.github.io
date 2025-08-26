@@ -8,7 +8,7 @@ venue: "UGA, (Spring, 2025)"
 #location: "City, Country"
 ---
 
-[**Course Evaluations**](/files/Course Evals Template.pdf){: .btn .btn--small} 
+[**Course Evaluations**](/files/Course_Evaluations_Brad_Curtis.pdf){: .btn .btn--small} 
 Heading 1
 ======
 
