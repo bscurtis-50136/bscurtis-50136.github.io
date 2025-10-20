@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,3 +32,5 @@ Languages
 * Python
 * MatLab
 
+ 
+Full CV [**Link**](/files/Brad Curtis CV 2025.pdf){: .btn .btn--small}
