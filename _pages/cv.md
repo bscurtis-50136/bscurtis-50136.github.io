@@ -32,5 +32,5 @@ Languages
 * Python
 * MatLab
 
- 
 Full CV [**Link**](/files/Brad Curtis CV 2025.pdf){: .btn .btn--small}
+====
