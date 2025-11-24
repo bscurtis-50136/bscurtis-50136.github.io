@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
- ## [The Cost of Clarity: Tradeoffs to Public Investments in Rural Diagnostic Care](/files/Brad_Curtis_JMP.pdf) (Job Market Paper)
+  [The Cost of Clarity: Tradeoffs to Public Investments in Rural Diagnostic Care](/files/Brad_Curtis_JMP.pdf) (Job Market Paper)
 
  <details>
 <summary>Abstract</summary>
