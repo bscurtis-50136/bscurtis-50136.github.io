@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in Economics at the University of Georgia. My research fields are Health Economics and Industrial Organization, with a specific focus on rural healthcare markets. In my [job market paper](/files/JMP_Curtis.pdf), I study the downstream effects of policies that subsidize technology adoption at rural hospitals.  
+I am a fifth-year Ph.D. candidate in Economics at the University of Georgia. My research fields are Health Economics and Industrial Organization, with a specific focus on rural healthcare markets. In my [job market paper](/files/Brad_Curtis_JMP.pdf), I study the downstream effects of policies that subsidize technology adoption at rural hospitals.  
 
 <!--**Job Market Paper:** The Cost of Clarity: Tradeoffs to Public Investments in Rural Diagnostic Care [**Link**](/files/JMP_Curtis.pdf){: .btn .btn--small} 
 
