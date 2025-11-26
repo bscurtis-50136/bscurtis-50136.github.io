@@ -28,7 +28,7 @@ Rural hospitals face financial constraints that hinder investment in new medical
 ---
 
 
-### Investing in Access: The Impact of Hospital Subsidies on Healthcare Supply in Rural Areas 
+[Investing in Access: The Impact of Hospital Subsidies on Healthcare Supply in Rural Areas](/files/Brad_Curtis_Investing_in_Access.pdf) 
 
 <details>
 <summary>Abstract</summary>
