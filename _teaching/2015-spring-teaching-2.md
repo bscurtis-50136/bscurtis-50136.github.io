@@ -8,4 +8,7 @@ date: 2025-10-01
 #location: "City, Country"
 ---
 
-[**Course Evaluations**](/files/Course_Evaluations_Brad_Curtis.pdf){: .btn .btn--small} 
+[**Course Evaluations Summary**](/files/Course_Evaluations_Brad_Curtis.pdf){: .btn .btn--small} 
+
+
+[**Course Evaluations Complete**](/files/Curtis_Course_Evaluation_Stats_Complete.pdf){: .btn .btn--small} 
